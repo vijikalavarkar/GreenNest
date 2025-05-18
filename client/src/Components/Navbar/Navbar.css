@@ -1,0 +1,20 @@
+.nav-main{
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+
+}
+
+.nav-main .logo_name{
+    color: #4fb19d;
+}
+
+.nav-main .nav-item a{
+ 
+    font-weight: 400;
+}
+
+.nav-main .nav-item a:hover{
+    color: #4fb19d;
+    
+}
